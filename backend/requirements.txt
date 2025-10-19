@@ -1,0 +1,7 @@
+flask==2.3.3
+flask-cors==4.0.0
+pandas==2.2.2
+numpy==2.0.2
+scikit-learn==1.6.1
+python-dotenv==1.1.1
+groq==0.12.0
